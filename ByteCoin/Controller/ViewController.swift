@@ -4,7 +4,7 @@
 //
 //
 //
-// Test test test
+// Test test
 import UIKit
 
 class ViewController: UIViewController {
